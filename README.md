@@ -1,2 +1,2 @@
-# PointCollegeSoftWare
-Point Collegen ohjelmointiharjoitukset
+# ÄlytaloSovellus
+Sivellus on tehty C- ohjelmointi kilelellä visualStudiolla
