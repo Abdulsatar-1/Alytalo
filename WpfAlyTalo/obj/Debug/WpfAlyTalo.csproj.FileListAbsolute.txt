@@ -1,0 +1,29 @@
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\bin\Debug\WpfAlyTalo.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\bin\Debug\WpfAlyTalo.exe
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\bin\Debug\WpfAlyTalo.pdb
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\obj\Debug\WpfAlyTalo.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\obj\Debug\WpfAlyTalo_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\obj\Debug\WpfAlyTalo_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\obj\Debug\WpfAlyTalo.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\obj\Debug\WpfAlyTalo.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\obj\Debug\WpfAlyTalo.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\obj\Debug\WpfAlyTalo.exe
+c:\users\admin\documents\visual studio 2015\Projects\WpfAlyTalo\WpfAlyTalo\obj\Debug\WpfAlyTalo.pdb
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\bin\Debug\WpfAlyTalo.exe.config
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\bin\Debug\WpfAlyTalo.exe
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\bin\Debug\WpfAlyTalo.pdb
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\WpfAlyTalo.csprojResolveAssemblyReference.cache
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\MainWindow.g.cs
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\App.g.cs
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\WpfAlyTalo_MarkupCompile.cache
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\WpfAlyTalo_MarkupCompile.lref
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\MainWindow.baml
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\WpfAlyTalo.g.resources
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\WpfAlyTalo.Properties.Resources.resources
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\WpfAlyTalo.csproj.GenerateResource.cache
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\WpfAlyTalo.csproj.CoreCompileInputs.cache
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\WpfAlyTalo.exe
+C:\Users\Satar\Desktop\PointCollegeSoftWare-master\WpfAlyTalo\obj\Debug\WpfAlyTalo.pdb
